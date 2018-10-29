@@ -1,1 +1,1 @@
-This folder contains the materials.
+This is the section that contains the materials and associated files.
